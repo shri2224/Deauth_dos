@@ -19,11 +19,11 @@ Do NOT use this tool on networks you do not own or have explicit written permiss
 
 **Dependencies:**
 
-Python 3.8+
-Aircrack-ng suite
-Required for aireplay-ng (used in the lab simulation)
-Wireless tools
-iwlist (for WiFi scanning)
-Linux OS
+Python 3.8+,
+Aircrack-ng suite,
+Required for aireplay-ng (used in the lab simulation),
+Wireless tools,
+iwlist (for WiFi scanning),
+Linux OS,
 Compatible wireless adapter
 
