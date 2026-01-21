@@ -1,6 +1,6 @@
 **WiFi Network Scanning & Deauthentication**
 
-**📌 Overview:**
+**📌Overview:**
 
 This project is a Python-based wireless security lab prototype designed to demonstrate how WiFi network discovery and client disconnection work at a conceptual level for security research, monitoring, and defensive testing.
 
@@ -11,13 +11,13 @@ How clients interact with access points
 How denial of service conditions can occur at the WiFi layer
 
 
-**🚨 Ethical & Legal Disclaimer:**
+**🚨Ethical & Legal Disclaimer:**
 
 This project is strictly for educational use, lab environments, and authorized testing only.
 Do NOT use this tool on networks you do not own or have explicit written permission to test.
 
 
-**Dependencies: **
+**Dependencies:**
 
 Python 3.8+
 Aircrack-ng suite
